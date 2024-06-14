@@ -49,5 +49,18 @@ To get a local copy up and running, follow these simple steps:
 To start the development server, run:
 ```bash
 npm start
+```
 or
+```bash
 yarn start
+```
+
+### Deployment
+The website is deployed on GitHub Pages. To deploy the website, run:
+```bash
+npm run deploy
+```
+or
+```bash
+yarn deploy
+```
